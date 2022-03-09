@@ -5,7 +5,7 @@ Ai Bot is a discord bot aimed to help digital creators verify the purchases of t
 ### Invite to Server
 Ai Bot is not publically available yet. To get updates, join the discord server: [https://discord.com/invite/bM7nw7XQyk](https://discord.com/invite/bM7nw7XQyk)
 
-###Permissions Setup
+### Permissions Setup
 After you add the bot to your server there are a couple of things you will need to do to get the bot working.
 1. If you want other admins to be able to add/edit/remove products, run the `/set-admin-role` command to select an admin role.
 2. Ensure the `Ai Bot` role is above all other roles. If a user has a role that is higher than the `Ai Bot` role then the bot will not be able to add a role to that user. The bot will not be able to add roles to the server owner.
