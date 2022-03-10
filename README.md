@@ -8,7 +8,7 @@ Ai Bot is not publically available yet. To get updates, join the discord server:
 ### Permissions Setup
 After you add the bot to your server there are a couple of things you will need to do to get the bot working.
 1. By default, only the server owner can run the product commands. If you want other admins to be able to add/edit/remove products, run the `/set-admin-role` command to select an admin role.
-2. Ensure the `Ai Bot` role is above all other roles. If a user has a role that is higher than the `Ai Bot` role then the bot will not be able to add a role to that user. The bot will not be able to add roles to the server owner.
+2. Ensure the `Ai Bot` role is above all other roles. If a user has a role that is higher than the `Ai Bot` role then the bot will not be able to add a role to that user. Please note that the bot will not be able to add roles to the server owner regardless of permissions.
 3. Ensure all roles that you want to have access to the `/verify` command have the `Use Application Commands` permission.
 4. Ensure all channels that you want to have access to any slash command has the `Use Application Commands` permission.
 
