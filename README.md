@@ -17,7 +17,7 @@ After you add the bot to your server there are a couple of things you will need 
 When using commands, make sure you press tab to move to the next argument.
 
 ### Add a New Product
-`/product add <product-name> <product-code> <avatar-role> <product-variant>`
+`/product add <platform> <product-name> <product-code> <avatar-role> <product-variant>`
 
 This command is used to add a new product. Once added, users can run `/verify` to verify a purchase against this product.
 
