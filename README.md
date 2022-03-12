@@ -1,6 +1,11 @@
 # Ai Bot Public
 Ai Bot is a discord bot aimed to help digital creators verify the purchases of the customers inside discord servers.
 
+## Gumroad Requirements
+In order for license keys to be generated for uses, ensure that the `Generate a unique license key per sale` option is enabled on all of your products. If you don't have it  enabled, enabling it should generate a license key for all previous sales, so don't worry if you don't have it set yet. More info about license keys [here](https://help.gumroad.com/article/76-license-keys).
+
+Users can find their license key on the download page of their product. If they don't have a gumroad account they can fill out the form on this page [https://app.gumroad.com/license-key-lookup](https://app.gumroad.com/license-key-lookup).
+
 ## Server Setup
 ### Invite to Server
 Ai Bot is not publically available yet. To get updates, join the discord server: [https://discord.com/invite/bM7nw7XQyk](https://discord.com/invite/bM7nw7XQyk)
