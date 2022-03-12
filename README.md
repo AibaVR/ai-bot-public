@@ -31,7 +31,7 @@ The arguments for this command are:
 - `product-name`: This is what the users will see in the dropdown when they run `/verify`. Spaces are allowed.
 - `product-code`: This is the gumroad product url code. To find it, open up the product and look at the url. The gumroad url structure is as follows: `https://<gumroad-username>.gumroad.com/l/<product-code>`. So if your  url is `marivr.gumroad.com/l/XuigQ`, your `product-code` is `XuigQ`.
 - `avatar-role`: This is the role that users will get when they verify your product.
-- `variant` (optional): This is an optional field. Leave blank if you don't use Gumroad variants, or you don't want to distinguish between variants. If your variant is `Commercial License` then enter `Commercial License`. Spaces are allowed. Each variant should be entered as a seperate product if they require differenet roles.
+- `variant` (optional): This is an optional field. Leave blank if you don't use Gumroad variants, or you don't want to distinguish between variants. If your variant is `Commercial License` then enter `Commercial License`. Spaces are allowed. Each variant should be entered as a separate product if they require different roles.
 
 ### Edit an Existing Product
 `/product edit <product> <platform> <product-name> <product-code> <avatar-role> <product-variant>`
